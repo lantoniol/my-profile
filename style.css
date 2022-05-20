@@ -1,0 +1,71 @@
+body {
+	background-color:#74966E;
+	color: rgb(0,0,0);
+	font-family: Cascadia Code, monospace;
+}
+
+h1 {
+	font-family: Arial,serif;
+	font-weight: 800;
+	letter-spacing: 6px;
+}
+
+#pinguoin {
+	width: 600px;
+	border-radius: 30px;
+}
+
+h3 {
+	font-family: Arial,monospace;
+}
+
+a {
+	text-decoration: none;
+	color: #00291C;
+}
+
+a:hover {
+	color: #DCC3AD;
+}
+
+/* Custom design with class */
+
+.container{
+	width: 700px;
+	margin: 120px auto;
+	text-align: center;
+}
+
+.card-white {
+	background-color: #f8f8f0;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 10px;
+	margin: 20px 0px;
+}
+
+.btn-blue:hover {
+	background-color: black;
+	color: #f8f8f0;
+	padding: 15px 20px;
+	border-radius: 10px;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline i {
+	font-size: 50px;
+	color: rgba(244, 164, 155, 255);
+}
+
+#final i {
+	margin-bottom: 30px;
+}
